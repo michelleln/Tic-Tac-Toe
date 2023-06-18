@@ -3,7 +3,8 @@ TicTacToe Console game built with C# OOP
 
 ### OOP Design  
 
-<img width="631" alt="image" src="https://github.com/michelleln/Tic-Tac-Toe/assets/133190574/70c305d3-ce78-4f09-9530-a7a399d40a72">
+![image](https://github.com/michelleln/Tic-Tac-Toe/assets/133190574/be90cdc2-3d7e-4f22-a987-0a7cfcf9575f)
+
 
 
 
